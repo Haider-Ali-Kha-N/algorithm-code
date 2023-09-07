@@ -1,0 +1,1 @@
+print('alhamdu lillah')
